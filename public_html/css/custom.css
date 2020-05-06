@@ -114,6 +114,8 @@ background: #9a4eae;
 
 h4 {
 	padding: 4rem;
+	background: rgba(0, 0, 0, 0.4);
+	color: white;
 }
 
 .headerBanner {
